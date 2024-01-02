@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditya-620&show_icons=true&locale=en" alt="aditya-620" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-620&" alt="aditya-620" /></p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aditya-620&label=Profile%20Views&icon=0&pretty=false" />
+</a>
