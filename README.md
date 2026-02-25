@@ -33,7 +33,7 @@ BackEnd Developer who loves to tinker with code 🔧.
 
 
 ## 📟 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aditya-620&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-620&theme=radical" height="180"/>
+<p align="center" style="white-space: nowrap;">
+  <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=aditya-620&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-620&theme=radical&hide_border=true"/>
 </p>
