@@ -7,7 +7,7 @@
 
 BackEnd Developer who loves to tinker with code 🔧.
 
-[![Portfolio Demo](https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-620.github.io/aditya-rastogi-portfolio/)
+[![Portfolio Demo](https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://adityarastogi.dev/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rastogi-5b5054231/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=twitter&logoColor=white)](https://x.com/technophile_adi/)
